@@ -1,6 +1,6 @@
 language: objective-c
 before_install:
-  brew outdated xctool | brew update xctool
+  brew outdated xctool | brew upgrade
   bundle install
 xcode_workspace: BeMyEyes.xcworkspace
 xcode_scheme: BeMyEyesTests
