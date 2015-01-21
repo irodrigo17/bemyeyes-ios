@@ -1,7 +1,7 @@
 language: objective-c
 before_install:
-  brew outdated xctool | brew upgrade
-  bundle install
+  - brew outdated | brew upgrade
+  - bundle install
 xcode_workspace: BeMyEyes.xcworkspace
 xcode_scheme: BeMyEyesTests
 xcode_sdk: iphonesimulator8.1
