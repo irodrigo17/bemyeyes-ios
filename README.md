@@ -1,4 +1,4 @@
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/bemyeyes/localized.png)](https://crowdin.com/project/bemyeyes)
+[![TravisCI](https://travis-ci.org/irodrigo17/bemyeyes-ios.svg?branch=development)](https://travis-ci.org/irodrigo17/bemyeyes-ios) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/bemyeyes/localized.png)](https://crowdin.com/project/bemyeyes)
 
 # Getting started
 ## Install Dependencies
